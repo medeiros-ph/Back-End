@@ -1,0 +1,28 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "First project in the Back-end course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medeiros-ph/Back-End.git"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "yaml",
+    "js"
+  ],
+  "author": "Raphael Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medeiros-ph/Back-End/issues"
+  },
+  "homepage": "https://github.com/medeiros-ph/Back-End#readme",
+  "dependencies": {
+    "mongoose": "^7.6.3"
+  }
+}
