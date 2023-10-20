@@ -21,15 +21,15 @@ async function main () {
     //         codigo: 2,
     //         nome: "Monitor Genérico DELL",
     //         preco: 400
-    //     }
+        // }
     // )
 
-    // await Produto.findOneAndDelete({preco: 1100})
+    await Produto.findOneAndDelete({preco: 1100})
 
     
     // console.log(await Produto.find())
 
-    // console.log(await Produto.findOne({preco: 500}))
+    //console.log(await Produto.findOne({preco: 500}))
 
 }
 
